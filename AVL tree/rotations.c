@@ -151,7 +151,7 @@ int main()
     RInsert(root, 40);
     */
 
-    // For test RR Rotation
+    // For test RL Rotation
     root = RInsert(root, 2);
     RInsert(root, 4);
     RInsert(root, 3);
